@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 def islower(c):
     a, b = 'a', 'z'
     if (c >= a) and (c <= b):
